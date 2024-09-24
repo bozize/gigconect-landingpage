@@ -41,7 +41,7 @@ nav ul li a:hover {
 
 /* Hero Section */
 .hero {
-  padding: 10px; /* Added padding to prevent overlap */
+  padding: 30px; /* Added padding to prevent overlap */
   color: black;
   height: 100vh;
   display: flex;

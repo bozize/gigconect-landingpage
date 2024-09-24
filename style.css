@@ -41,6 +41,7 @@ nav ul li a:hover {
 
 /* Hero Section */
 .hero {
+  padding-top: 10px;
   color: black;
   height: 100vh;
   display: flex;
